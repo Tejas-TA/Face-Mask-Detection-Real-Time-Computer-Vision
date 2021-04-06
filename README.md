@@ -4,7 +4,7 @@
 
 <hr>
 
-<b>LinkedIn - https://www.linkedin.com/in/tejasta/ <br>
-<b>Email Id - tejasta@gmail.com <br>
-<b>Blogs - https://tejasta.medium.com/ <hr>
+LinkedIn - https://www.linkedin.com/in/tejasta/ <br>
+Email Id - tejasta@gmail.com <br>
+Blogs - https://tejasta.medium.com/ <hr>
   
