@@ -20,10 +20,11 @@ Detecting whether a person is wearing a mask or not in real time using Python, K
 <img alt="image" src="https://user-images.githubusercontent.com/13360641/126059769-5577527f-98f5-44a5-bcdc-dd5f24c27a72.png" width = "100%" height="100%">
 
 <br>
-### Train the Model – <br>
-Below graph summarizes the training<br>
-<img alt="image" src="https://github.com/Tejas-TA/Face-Mask-Detection-Real-Time-Computer-Vision/blob/main/plot.png" width = "100%" height="100%"> <br><br>
-Face Detection using Camera (Real-Time)<br>
+### Train the Model –<br>
+Below graph summarizes the training
+<img alt="image" src="https://github.com/Tejas-TA/Face-Mask-Detection-Real-Time-Computer-Vision/blob/main/plot.png" width = "100%" height="100%"> <br>
+
+### Face Detection using Camera (Real-Time)<br>
 Using deploy.prototxt and res10_300x300_ssd_iter_140000.caffemodel face is detected and using our deep learning model mask is detected. Please refer “Detect Mask Video.ipynb” for code.
 
 
