@@ -28,6 +28,6 @@ There is a reduction in loss as the number of epochs increases
 Using deploy .prototxt and res10_300x300_ssd_iter_140000.caffemodel face is detected and using our deep learning model mask is detected. Please refer to the “Detect Mask Video.ipynb” for the code.
 
 <hr>
-LinkedIn - https://www.linkedin.com/in/tejas-ta/ <br>
 Email - tejasta@gmail.com <br>
+LinkedIn - https://www.linkedin.com/in/tejas-ta/ <br>
 Blogs - https://tejasta.medium.com/ <hr>
